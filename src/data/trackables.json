@@ -1,0 +1,236 @@
+{
+  "weapons": [
+    {
+      "title": "no weapon",
+      "imageUrl": "/images/weapon/weapon-no.png"
+    },
+    {
+      "title": "Bamboo Pole",
+      "imageUrl": "/images/weapon/bamboo.png"
+    },
+    {
+      "title": "Club",
+      "imageUrl": "/images/weapon/club.png"
+    },
+    {
+      "title": "Copper Sword",
+      "imageUrl": "/images/weapon/copper.png"
+    },
+    {
+      "title": "Hand Axe",
+      "imageUrl": "/images/weapon/axe.png"
+    },
+    {
+      "title": "Broadsword",
+      "imageUrl": "/images/weapon/broad.png"
+    },
+    {
+      "title": "Flame Sword",
+      "imageUrl": "/images/weapon/flame.png"
+    },
+    {
+      "title": "Erdrick's Sword",
+      "imageUrl": "/images/weapon/erdricks.png"
+    }
+  ],
+  "armor": [
+    {
+      "title": "no armor",
+      "imageUrl": "/images/armor/armor-no.png"
+    },
+    {
+      "title": "Clothes",
+      "imageUrl": "/images/armor/clothes.png"
+    },
+    {
+      "title": "Leather Armor",
+      "imageUrl": "/images/armor/leather.png"
+    },
+    {
+      "title": "Chain Mail",
+      "imageUrl": "/images/armor/chain.png"
+    },
+    {
+      "title": "Half Plate",
+      "imageUrl": "/images/armor/half.png"
+    },
+    {
+      "title": "Full Plate",
+      "imageUrl": "/images/armor/full.png"
+    },
+    {
+      "title": "Magic Armor",
+      "imageUrl": "/images/armor/magic.png"
+    },
+    {
+      "title": "Erdrick's Armor",
+      "imageUrl": "/images/armor/erdricks.png"
+    }
+  ],
+  "shields": [
+    {
+      "title": "no shield",
+      "imageUrl": "/images/shield/shield-no.png"
+    },
+    {
+      "title": "Small Shield",
+      "imageUrl": "/images/shield/small.png"
+    },
+    {
+      "title": "Large Shield",
+      "imageUrl": "/images/shield/large.png"
+    },
+    {
+      "title": "Silver Shield",
+      "imageUrl": "/images/shield/silver.png"
+    }
+  ],
+  "ring": [
+    {
+      "title": "No Fighter's Ring",
+      "imageUrl": "/images/item/ring-no.png"
+    },
+    {
+      "title": "Fighter's Ring",
+      "imageUrl": "/images/item/ring.png"
+    },
+    {
+      "title": "Fighter's Ring Equipped",
+      "imageUrl": "/images/item/ring-equipped.png"
+    }
+  ],
+  "scale": [
+    {
+      "title": "No Dragon's Scale",
+      "imageUrl": "/images/item/scale-no.png"
+    },
+    {
+      "title": "Dragon's Scale",
+      "imageUrl": "/images/item/scale.png"
+    },
+    {
+      "title": "Dragon's Scale Equipped",
+      "imageUrl": "/images/item/scale-equipped.png"
+    }
+  ],
+  "necklace": [
+    {
+      "title": "No Death Necklace",
+      "imageUrl": "/images/item/necklace-no.png"
+    },
+    {
+      "title": "Death Necklace",
+      "imageUrl": "/images/item/necklace.png"
+    },
+    {
+      "title": "Death Necklace Equipped",
+      "imageUrl": "/images/item/necklace-equipped.png"
+    }
+  ],
+  "keys": [
+    {
+      "title": "No Magic Keys",
+      "imageUrl": "/images/item/key-no.png"
+    },
+    {
+      "title": "Magic Keys",
+      "imageUrl": "/images/item/key.png"
+    }
+  ],
+  "harp": [
+    {
+      "title": "No Silver Harp",
+      "imageUrl": "/images/item/harp-no.png"
+    },
+    {
+      "title": "Silver Harp",
+      "imageUrl": "/images/item/harp.png"
+    }
+  ],
+  "staff": [
+    {
+      "title": "No Staff of Rain",
+      "imageUrl": "/images/item/staff-no.png"
+    },
+    {
+      "title": "Staff of Rain",
+      "imageUrl": "/images/item/staff.png"
+    }
+  ],
+  "stones": [
+    {
+      "title": "No Stones of Sunlight",
+      "imageUrl": "/images/item/stone-no.png"
+    },
+    {
+      "title": "Stones of Sunlight",
+      "imageUrl": "/images/item/stone.png"
+    }
+  ],
+  "rainbow_drop": [
+    {
+      "title": "No Rainbow Drop",
+      "imageUrl": "/images/item/drop-no.png"
+    },
+    {
+      "title": "Rainbow Drop",
+      "imageUrl": "/images/item/drop.png"
+    },
+    {
+      "title": "Rainbow Bridge",
+      "imageUrl": "/images/item/bridge.png"
+    }
+  ],
+  "ball_of_light": [
+    {
+      "title": "No Ball of Light",
+      "imageUrl": "/images/item/ball-no.png"
+    },
+    {
+      "title": "Ball of Light",
+      "imageUrl": "/images/item/ball.png"
+    }
+  ],
+  "token": [
+    {
+      "title": "No Erdrick's Token",
+      "imageUrl": "/images/item/token-no.png"
+    },
+    {
+      "title": "Erdrick's Token",
+      "imageUrl": "/images/item/token.png"
+    }
+  ],
+  "flute": [
+    {
+      "title": "No Magic Flute",
+      "imageUrl": "/images/item/flute-no.png"
+    },
+    {
+      "title": "Magic Flute",
+      "imageUrl": "/images/item/flute.png"
+    }
+  ],
+  "gps": {
+    "male": [
+      {
+        "title": "No Gwaelin's Love",
+        "imageUrl": "/images/item/gps-no.png"
+      },
+      {
+        "title": "Gwaelin's Love",
+        "imageUrl": "/images/item/gps.png"
+      }  
+    ],
+    "female": [
+      {
+        "title": "No Guimond's Love",
+        "imageUrl": "/images/item/guimond-no.png"
+      },
+      {
+        "title": "Guimond's Love",
+        "imageUrl": "/images/item/guimond.png"
+      }
+    ]
+  }
+}

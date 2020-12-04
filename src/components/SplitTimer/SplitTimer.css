@@ -1,0 +1,46 @@
+div.timer {
+  color: white;
+  padding: 0 auto;
+  width: 98vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+}
+
+div.timer>button {
+  font-family: inherit;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+  overflow: visible;
+  text-transform: none;
+  border: none;
+  outline: none;
+  -webkit-appearance: button;
+  background-color: black;
+  margin-top: 0.25em;
+}
+
+div.timer>p.time {
+  font-size: 2.5em;
+  margin: 0;
+  margin-top: 0.25em;
+}
+
+div.timer>p.time>span.hours,
+div.timer>p.time>span.minutes,
+div.timer>p.time>span.seconds {
+  color: greenyellow;
+  font-variant-numeric: tabular-nums lining-nums;
+  min-width: 1.3em;
+  display: inline-block;
+}
+
+div.timer>p.time>span.millis {
+  font-size: 0.7em;
+  font-variant-numeric: tabular-nums lining-nums;
+  width: 2.1em;
+  min-width: 2.1em;
+  display: inline-block;
+}

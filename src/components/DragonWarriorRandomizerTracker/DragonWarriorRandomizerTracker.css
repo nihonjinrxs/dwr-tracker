@@ -1,0 +1,30 @@
+@import '/fonts/fonts.css';
+
+div.dwr-tracker {
+  background-color: black;
+  color: white;
+  font-family: '8-bit Limit R BRK';
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+div.dwr-tracker>:first-child {
+  justify-self: flex-start;
+}
+
+div.dwr-tracker>:last-child {
+  justify-self: flex-end;
+}
+
+div.dwr-tracker>:nth-child(n) {
+  flex-grow: 1;
+}
+
+div.dwr-tracker>div.tracker-pane {
+  flex-grow: 100;
+  width: 98vw;
+}

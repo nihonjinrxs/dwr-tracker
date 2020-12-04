@@ -1,0 +1,26 @@
+header {
+  background-color: yellow;
+  background-image: url('/images/common/dw1-titleback.png');
+  background-size: contain;
+  background-repeat: round;
+  color: black;
+  font-family: '8-bit Limit BRK';
+  min-width: 100vw;
+  max-width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+header>h1 {
+  font-size: 4.5vw;
+  min-width: 85vw;
+}
+
+header>img {
+  max-width: 10vw;
+  display: block;
+  justify-self: flex-start;
+}
